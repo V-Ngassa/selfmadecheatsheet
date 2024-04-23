@@ -1,0 +1,22 @@
+ body{
+background-color: azure;
+color: blue;
+
+}
+.theme {
+  font-family: Georgia;
+  color: Maroon; 
+  text-align: center;
+}
+#T1 {
+  font-family: Georgia;
+  color: DarkOliveGreen;
+}
+#T2 {
+  font-family: Georgia;
+  color: DarkOliveGreen;
+}
+#T3 {
+  font-family: Georgia;
+  color: DarkOliveGreen;
+}
